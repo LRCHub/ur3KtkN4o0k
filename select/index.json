@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "オトナブルー",
+  "base_artist": "新しい学校のリーダーズ",
+  "createdAt": "2025-12-02T13:32:07.169064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オトナブルー",
+      "artist": "Atarashii Gakkou No Leaders",
+      "has_synced": true,
+      "path": "select/01_オトナブルー_Atarashii_Gakkou_No_Leaders.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オトナブルー",
+      "artist": "ATARASHII GAKKO!",
+      "has_synced": true,
+      "path": "select/02_オトナブルー_ATARASHII_GAKKO!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "OTONABLUE (オトナブルー)",
+      "artist": "ATARASHII GAKKO!",
+      "has_synced": true,
+      "path": "select/03_OTONABLUE_(オトナブルー)_ATARASHII_GAKKO!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オトナブルー - From THE FIRST TAKE",
+      "artist": "新しい学校のリーダーズ",
+      "has_synced": true,
+      "path": "select/04_オトナブルー_-_From_THE_FIRST_TAKE_新しい学校のリーダーズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オトナブルー",
+      "artist": "新しい学校のリーダーズ",
+      "has_synced": true,
+      "path": "select/05_オトナブルー_新しい学校のリーダーズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オトナブルー",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/06_オトナブルー_AKB48.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オトナブルー",
+      "artist": "新しい学校のリーダーズ",
+      "has_synced": false,
+      "path": "select/pl_01_オトナブルー_新しい学校のリーダーズ.txt"
+    }
+  ]
+}
